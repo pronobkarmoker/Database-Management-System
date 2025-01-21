@@ -1,0 +1,11 @@
+Frequent Itemsets of Size 1:
+{ bread } : 6
+{ milk } : 5
+{ eggs } : 4
+{ cheese } : 3
+{ fruit } : 3
+
+Frequent Itemsets of Size 2:
+{ milk bread } : 3
+{ bread eggs } : 3
+
